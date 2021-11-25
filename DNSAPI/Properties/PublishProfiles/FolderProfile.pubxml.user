@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\ethiraj\Desktop\apipublish</_PublishTargetUrl>
+    <History>True|2021-05-19T05:46:07.5367135Z;True|2021-05-18T11:02:08.7912178+05:30;True|2021-05-18T10:56:18.0459373+05:30;False|2021-05-18T10:54:05.7916047+05:30;True|2021-05-17T20:31:28.1526707+05:30;True|2021-05-17T20:27:18.5707367+05:30;True|2021-05-17T19:08:04.6555733+05:30;</History>
+  </PropertyGroup>
+</Project>

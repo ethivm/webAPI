@@ -1,0 +1,8 @@
+C:\Users\ethiraj\Downloads\API\WebAPIBase.NetCore-master\Model\bin\Debug\netstandard2.1\WebAPIBase.Model.deps.json
+C:\Users\ethiraj\Downloads\API\WebAPIBase.NetCore-master\Model\bin\Debug\netstandard2.1\WebAPIBase.Model.dll
+C:\Users\ethiraj\Downloads\API\WebAPIBase.NetCore-master\Model\bin\Debug\netstandard2.1\WebAPIBase.Model.pdb
+C:\Users\ethiraj\Downloads\API\WebAPIBase.NetCore-master\Model\obj\Debug\netstandard2.1\WebAPIBase.Model.AssemblyInfoInputs.cache
+C:\Users\ethiraj\Downloads\API\WebAPIBase.NetCore-master\Model\obj\Debug\netstandard2.1\WebAPIBase.Model.AssemblyInfo.cs
+C:\Users\ethiraj\Downloads\API\WebAPIBase.NetCore-master\Model\obj\Debug\netstandard2.1\WebAPIBase.Model.csproj.CoreCompileInputs.cache
+C:\Users\ethiraj\Downloads\API\WebAPIBase.NetCore-master\Model\obj\Debug\netstandard2.1\WebAPIBase.Model.dll
+C:\Users\ethiraj\Downloads\API\WebAPIBase.NetCore-master\Model\obj\Debug\netstandard2.1\WebAPIBase.Model.pdb

@@ -1,0 +1,16 @@
+D:\CodeSpace\DNSAPI\Service\bin\Release\netstandard2.1\DNSAPI.Service.deps.json
+D:\CodeSpace\DNSAPI\Service\bin\Release\netstandard2.1\DNSAPI.Service.dll
+D:\CodeSpace\DNSAPI\Service\bin\Release\netstandard2.1\DNSAPI.Service.pdb
+D:\CodeSpace\DNSAPI\Service\bin\Release\netstandard2.1\DNSAPI.Data.dll
+D:\CodeSpace\DNSAPI\Service\bin\Release\netstandard2.1\DNSAPI.Model.dll
+D:\CodeSpace\DNSAPI\Service\bin\Release\netstandard2.1\DNSAPI.Utils.dll
+D:\CodeSpace\DNSAPI\Service\bin\Release\netstandard2.1\DNSAPI.Data.pdb
+D:\CodeSpace\DNSAPI\Service\bin\Release\netstandard2.1\DNSAPI.Model.pdb
+D:\CodeSpace\DNSAPI\Service\bin\Release\netstandard2.1\DNSAPI.Utils.pdb
+D:\CodeSpace\DNSAPI\Service\obj\Release\netstandard2.1\DNSAPI.Service.csprojAssemblyReference.cache
+D:\CodeSpace\DNSAPI\Service\obj\Release\netstandard2.1\DNSAPI.Service.AssemblyInfoInputs.cache
+D:\CodeSpace\DNSAPI\Service\obj\Release\netstandard2.1\DNSAPI.Service.AssemblyInfo.cs
+D:\CodeSpace\DNSAPI\Service\obj\Release\netstandard2.1\DNSAPI.Service.csproj.CoreCompileInputs.cache
+D:\CodeSpace\DNSAPI\Service\obj\Release\netstandard2.1\DNSAPI.Service.csproj.CopyComplete
+D:\CodeSpace\DNSAPI\Service\obj\Release\netstandard2.1\DNSAPI.Service.dll
+D:\CodeSpace\DNSAPI\Service\obj\Release\netstandard2.1\DNSAPI.Service.pdb

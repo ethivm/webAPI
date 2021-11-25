@@ -1,0 +1,12 @@
+D:\CodeSpace\DNSAPI\Utils\bin\Release\netstandard2.1\DNSAPI.Utils.deps.json
+D:\CodeSpace\DNSAPI\Utils\bin\Release\netstandard2.1\DNSAPI.Utils.dll
+D:\CodeSpace\DNSAPI\Utils\bin\Release\netstandard2.1\DNSAPI.Utils.pdb
+D:\CodeSpace\DNSAPI\Utils\bin\Release\netstandard2.1\DNSAPI.Model.dll
+D:\CodeSpace\DNSAPI\Utils\bin\Release\netstandard2.1\DNSAPI.Model.pdb
+D:\CodeSpace\DNSAPI\Utils\obj\Release\netstandard2.1\DNSAPI.Utils.csprojAssemblyReference.cache
+D:\CodeSpace\DNSAPI\Utils\obj\Release\netstandard2.1\DNSAPI.Utils.AssemblyInfoInputs.cache
+D:\CodeSpace\DNSAPI\Utils\obj\Release\netstandard2.1\DNSAPI.Utils.AssemblyInfo.cs
+D:\CodeSpace\DNSAPI\Utils\obj\Release\netstandard2.1\DNSAPI.Utils.csproj.CoreCompileInputs.cache
+D:\CodeSpace\DNSAPI\Utils\obj\Release\netstandard2.1\DNSAPI.Utils.csproj.CopyComplete
+D:\CodeSpace\DNSAPI\Utils\obj\Release\netstandard2.1\DNSAPI.Utils.dll
+D:\CodeSpace\DNSAPI\Utils\obj\Release\netstandard2.1\DNSAPI.Utils.pdb

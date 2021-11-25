@@ -1,0 +1,98 @@
+2021-11-25 20:01:08,412 DEBUG Microsoft.AspNetCore.Hosting.Diagnostics.Starting [0] - MESSAGE: Hosting starting
+ 2021-11-25 20:01:09,773  INFO Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager.? [?] - MESSAGE: User profile is available. Using 'C:\Users\ethiraj\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+ 2021-11-25 20:01:09,819 DEBUG Microsoft.AspNetCore.DataProtection.Repositories.FileSystemXmlRepository.? [?] - MESSAGE: Reading data from file 'C:\Users\ethiraj\AppData\Local\ASP.NET\DataProtection-Keys\key-2f2924a3-6b36-43c8-a0b7-009a8ec249a5.xml'.
+ 2021-11-25 20:01:09,901 DEBUG Microsoft.AspNetCore.DataProtection.Repositories.FileSystemXmlRepository.? [?] - MESSAGE: Reading data from file 'C:\Users\ethiraj\AppData\Local\ASP.NET\DataProtection-Keys\key-31ca0876-e0f5-496e-a902-f3c716be9056.xml'.
+ 2021-11-25 20:01:09,941 DEBUG Microsoft.AspNetCore.DataProtection.Repositories.FileSystemXmlRepository.? [?] - MESSAGE: Reading data from file 'C:\Users\ethiraj\AppData\Local\ASP.NET\DataProtection-Keys\key-3ab980bc-fa62-4a4d-aa8a-c20d27e187a0.xml'.
+ 2021-11-25 20:01:09,955 DEBUG Microsoft.AspNetCore.DataProtection.Repositories.FileSystemXmlRepository.? [?] - MESSAGE: Reading data from file 'C:\Users\ethiraj\AppData\Local\ASP.NET\DataProtection-Keys\key-9563c844-71ee-4ac7-9b6d-08fb38a02096.xml'.
+ 2021-11-25 20:01:10,035 DEBUG Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager.? [?] - MESSAGE: Found key {2f2924a3-6b36-43c8-a0b7-009a8ec249a5}.
+ 2021-11-25 20:01:10,062 DEBUG Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager.? [?] - MESSAGE: Found key {31ca0876-e0f5-496e-a902-f3c716be9056}.
+ 2021-11-25 20:01:10,068 DEBUG Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager.? [?] - MESSAGE: Found key {3ab980bc-fa62-4a4d-aa8a-c20d27e187a0}.
+ 2021-11-25 20:01:10,073 DEBUG Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager.? [?] - MESSAGE: Found key {9563c844-71ee-4ac7-9b6d-08fb38a02096}.
+ 2021-11-25 20:01:10,138 DEBUG Microsoft.AspNetCore.DataProtection.KeyManagement.DefaultKeyResolver.? [?] - MESSAGE: Considering key {31ca0876-e0f5-496e-a902-f3c716be9056} with expiration date 2021-12-18 17:32:43Z as default key.
+ 2021-11-25 20:01:10,225 DEBUG Microsoft.AspNetCore.DataProtection.TypeForwardingActivator.CreateInstance [0] - MESSAGE: Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+ 2021-11-25 20:01:10,234 DEBUG Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor.? [?] - MESSAGE: Decrypting secret element using Windows DPAPI.
+ 2021-11-25 20:01:10,242 DEBUG Microsoft.AspNetCore.DataProtection.TypeForwardingActivator.CreateInstance [0] - MESSAGE: Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+ 2021-11-25 20:01:10,250 DEBUG Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.CngCbcAuthenticatedEncryptorFactory.? [?] - MESSAGE: Opening CNG algorithm 'AES' from provider '(null)' with chaining mode CBC.
+ 2021-11-25 20:01:10,258 DEBUG Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.CngCbcAuthenticatedEncryptorFactory.? [?] - MESSAGE: Opening CNG algorithm 'SHA256' from provider '(null)' with HMAC.
+ 2021-11-25 20:01:10,266 DEBUG Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingProvider.? [?] - MESSAGE: Using key {31ca0876-e0f5-496e-a902-f3c716be9056} as the default key.
+ 2021-11-25 20:01:10,271 DEBUG Microsoft.AspNetCore.DataProtection.Internal.DataProtectionHostedService.? [?] - MESSAGE: Key ring with default key {31ca0876-e0f5-496e-a902-f3c716be9056} was loaded during application startup.
+ 2021-11-25 20:01:10,280 DEBUG Microsoft.AspNetCore.Hosting.Diagnostics.Started [0] - MESSAGE: Hosting started
+ 2021-11-25 20:01:10,284 DEBUG Microsoft.AspNetCore.Hosting.Diagnostics.MoveNext [0] - MESSAGE: Loaded hosting startup assembly DNSAPI
+ 2021-11-25 20:01:10,405  INFO Microsoft.AspNetCore.Hosting.Diagnostics.? [?] - MESSAGE: Request starting HTTP/1.1 GET http://localhost:53264/swagger  
+ 2021-11-25 20:01:10,413 DEBUG Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware.? [?] - MESSAGE: Wildcard detected, all requests with hosts will be allowed.
+ 2021-11-25 20:01:10,419 TRACE Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware.? [?] - MESSAGE: All hosts are allowed.
+ 2021-11-25 20:01:10,431  WARN Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware.? [?] - MESSAGE: Failed to determine the https port for redirect.
+ 2021-11-25 20:01:10,467 DEBUG Microsoft.AspNetCore.Routing.Matching.DfaMatcher.? [?] - MESSAGE: No candidates found for the request path '/swagger'
+ 2021-11-25 20:01:10,472 DEBUG Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.? [?] - MESSAGE: Request did not match any endpoints
+ 2021-11-25 20:01:10,547  INFO Microsoft.AspNetCore.Hosting.Diagnostics.? [?] - MESSAGE: Request starting HTTP/1.1 GET http://localhost:53264/swagger/index.html  
+ 2021-11-25 20:01:10,551 TRACE Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware.? [?] - MESSAGE: All hosts are allowed.
+ 2021-11-25 20:01:10,555 DEBUG Microsoft.AspNetCore.Routing.Matching.DfaMatcher.? [?] - MESSAGE: No candidates found for the request path '/swagger/index.html'
+ 2021-11-25 20:01:10,577 DEBUG Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.? [?] - MESSAGE: Request did not match any endpoints
+ 2021-11-25 20:01:10,577  INFO Microsoft.AspNetCore.Hosting.Diagnostics.? [?] - MESSAGE: Request finished in 170.5628ms 301 
+ 2021-11-25 20:01:10,766  INFO Microsoft.AspNetCore.Hosting.Diagnostics.? [?] - MESSAGE: Request finished in 218.5014ms 200 text/html;charset=utf-8
+ 2021-11-25 20:01:10,787  INFO Microsoft.AspNetCore.Hosting.Diagnostics.? [?] - MESSAGE: Request starting HTTP/1.1 GET http://localhost:53264/swagger/swagger-ui.css  
+ 2021-11-25 20:01:10,791  INFO Microsoft.AspNetCore.Hosting.Diagnostics.? [?] - MESSAGE: Request starting HTTP/1.1 GET http://localhost:53264/swagger/swagger-ui-bundle.js  
+ 2021-11-25 20:01:10,791 TRACE Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware.? [?] - MESSAGE: All hosts are allowed.
+ 2021-11-25 20:01:10,791  INFO Microsoft.AspNetCore.Hosting.Diagnostics.? [?] - MESSAGE: Request starting HTTP/1.1 GET http://localhost:53264/swagger/swagger-ui-standalone-preset.js  
+ 2021-11-25 20:01:10,800 TRACE Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware.? [?] - MESSAGE: All hosts are allowed.
+ 2021-11-25 20:01:10,804 DEBUG Microsoft.AspNetCore.Routing.Matching.DfaMatcher.? [?] - MESSAGE: No candidates found for the request path '/swagger/swagger-ui.css'
+ 2021-11-25 20:01:10,807 TRACE Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware.? [?] - MESSAGE: All hosts are allowed.
+ 2021-11-25 20:01:10,812 DEBUG Microsoft.AspNetCore.Routing.Matching.DfaMatcher.? [?] - MESSAGE: No candidates found for the request path '/swagger/swagger-ui-bundle.js'
+ 2021-11-25 20:01:10,818 DEBUG Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.? [?] - MESSAGE: Request did not match any endpoints
+ 2021-11-25 20:01:10,821 DEBUG Microsoft.AspNetCore.Routing.Matching.DfaMatcher.? [?] - MESSAGE: No candidates found for the request path '/swagger/swagger-ui-standalone-preset.js'
+ 2021-11-25 20:01:10,826 DEBUG Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.? [?] - MESSAGE: Request did not match any endpoints
+ 2021-11-25 20:01:10,836 DEBUG Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.? [?] - MESSAGE: Request did not match any endpoints
+ 2021-11-25 20:01:10,893 TRACE Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.ParseRange [0] - MESSAGE: Range header's value is empty.
+ 2021-11-25 20:01:10,893 TRACE Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.ParseRange [0] - MESSAGE: Range header's value is empty.
+ 2021-11-25 20:01:10,894 TRACE Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.ParseRange [0] - MESSAGE: Range header's value is empty.
+ 2021-11-25 20:01:10,966  INFO Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.? [?] - MESSAGE: Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+ 2021-11-25 20:01:10,966  INFO Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.? [?] - MESSAGE: Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+ 2021-11-25 20:01:10,966  INFO Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.? [?] - MESSAGE: Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+ 2021-11-25 20:01:11,003  INFO Microsoft.AspNetCore.Hosting.Diagnostics.? [?] - MESSAGE: Request finished in 216.8527ms 200 text/css
+ 2021-11-25 20:01:11,003  INFO Microsoft.AspNetCore.Hosting.Diagnostics.? [?] - MESSAGE: Request finished in 212.031ms 200 application/javascript
+ 2021-11-25 20:01:11,003  INFO Microsoft.AspNetCore.Hosting.Diagnostics.? [?] - MESSAGE: Request finished in 211.9488ms 200 application/javascript
+ 2021-11-25 20:01:11,235  INFO Microsoft.AspNetCore.Hosting.Diagnostics.? [?] - MESSAGE: Request starting HTTP/1.1 GET http://localhost:53264/swagger/v1/swagger.json  
+ 2021-11-25 20:01:11,239 TRACE Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware.? [?] - MESSAGE: All hosts are allowed.
+ 2021-11-25 20:01:11,244 DEBUG Microsoft.AspNetCore.Routing.Matching.DfaMatcher.? [?] - MESSAGE: No candidates found for the request path '/swagger/v1/swagger.json'
+ 2021-11-25 20:01:11,249 DEBUG Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.? [?] - MESSAGE: Request did not match any endpoints
+ 2021-11-25 20:01:11,271  INFO Microsoft.AspNetCore.Hosting.Diagnostics.? [?] - MESSAGE: Request starting HTTP/1.1 GET http://localhost:53264/swagger/favicon-32x32.png  
+ 2021-11-25 20:01:11,275 TRACE Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware.? [?] - MESSAGE: All hosts are allowed.
+ 2021-11-25 20:01:11,278 DEBUG Microsoft.AspNetCore.Routing.Matching.DfaMatcher.? [?] - MESSAGE: No candidates found for the request path '/swagger/favicon-32x32.png'
+ 2021-11-25 20:01:11,282 DEBUG Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.? [?] - MESSAGE: Request did not match any endpoints
+ 2021-11-25 20:01:11,286 TRACE Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.ParseRange [0] - MESSAGE: Range header's value is empty.
+ 2021-11-25 20:01:11,291  INFO Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.? [?] - MESSAGE: Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+ 2021-11-25 20:01:11,296  INFO Microsoft.AspNetCore.Hosting.Diagnostics.? [?] - MESSAGE: Request finished in 25.0077ms 200 image/png
+ 2021-11-25 20:01:11,506  INFO Microsoft.AspNetCore.Hosting.Diagnostics.? [?] - MESSAGE: Request finished in 271.2319ms 200 application/json;charset=utf-8
+ 2021-11-25 20:07:58,109 DEBUG Microsoft.AspNetCore.Hosting.Diagnostics.Starting [0] - MESSAGE: Hosting starting
+ 2021-11-25 20:07:58,479  INFO Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager.? [?] - MESSAGE: User profile is available. Using 'C:\Users\ethiraj\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+ 2021-11-25 20:07:58,490 DEBUG Microsoft.AspNetCore.DataProtection.Repositories.FileSystemXmlRepository.? [?] - MESSAGE: Reading data from file 'C:\Users\ethiraj\AppData\Local\ASP.NET\DataProtection-Keys\key-2f2924a3-6b36-43c8-a0b7-009a8ec249a5.xml'.
+ 2021-11-25 20:07:58,498 DEBUG Microsoft.AspNetCore.DataProtection.Repositories.FileSystemXmlRepository.? [?] - MESSAGE: Reading data from file 'C:\Users\ethiraj\AppData\Local\ASP.NET\DataProtection-Keys\key-31ca0876-e0f5-496e-a902-f3c716be9056.xml'.
+ 2021-11-25 20:07:58,502 DEBUG Microsoft.AspNetCore.DataProtection.Repositories.FileSystemXmlRepository.? [?] - MESSAGE: Reading data from file 'C:\Users\ethiraj\AppData\Local\ASP.NET\DataProtection-Keys\key-3ab980bc-fa62-4a4d-aa8a-c20d27e187a0.xml'.
+ 2021-11-25 20:07:58,506 DEBUG Microsoft.AspNetCore.DataProtection.Repositories.FileSystemXmlRepository.? [?] - MESSAGE: Reading data from file 'C:\Users\ethiraj\AppData\Local\ASP.NET\DataProtection-Keys\key-9563c844-71ee-4ac7-9b6d-08fb38a02096.xml'.
+ 2021-11-25 20:07:58,514 DEBUG Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager.? [?] - MESSAGE: Found key {2f2924a3-6b36-43c8-a0b7-009a8ec249a5}.
+ 2021-11-25 20:07:58,521 DEBUG Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager.? [?] - MESSAGE: Found key {31ca0876-e0f5-496e-a902-f3c716be9056}.
+ 2021-11-25 20:07:58,524 DEBUG Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager.? [?] - MESSAGE: Found key {3ab980bc-fa62-4a4d-aa8a-c20d27e187a0}.
+ 2021-11-25 20:07:58,528 DEBUG Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager.? [?] - MESSAGE: Found key {9563c844-71ee-4ac7-9b6d-08fb38a02096}.
+ 2021-11-25 20:07:58,537 DEBUG Microsoft.AspNetCore.DataProtection.KeyManagement.DefaultKeyResolver.? [?] - MESSAGE: Considering key {31ca0876-e0f5-496e-a902-f3c716be9056} with expiration date 2021-12-18 17:32:43Z as default key.
+ 2021-11-25 20:07:58,566 DEBUG Microsoft.AspNetCore.DataProtection.TypeForwardingActivator.CreateInstance [0] - MESSAGE: Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+ 2021-11-25 20:07:58,572 DEBUG Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor.? [?] - MESSAGE: Decrypting secret element using Windows DPAPI.
+ 2021-11-25 20:07:58,577 DEBUG Microsoft.AspNetCore.DataProtection.TypeForwardingActivator.CreateInstance [0] - MESSAGE: Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+ 2021-11-25 20:07:58,583 DEBUG Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.CngCbcAuthenticatedEncryptorFactory.? [?] - MESSAGE: Opening CNG algorithm 'AES' from provider '(null)' with chaining mode CBC.
+ 2021-11-25 20:07:58,589 DEBUG Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.CngCbcAuthenticatedEncryptorFactory.? [?] - MESSAGE: Opening CNG algorithm 'SHA256' from provider '(null)' with HMAC.
+ 2021-11-25 20:07:58,596 DEBUG Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingProvider.? [?] - MESSAGE: Using key {31ca0876-e0f5-496e-a902-f3c716be9056} as the default key.
+ 2021-11-25 20:07:58,600 DEBUG Microsoft.AspNetCore.DataProtection.Internal.DataProtectionHostedService.? [?] - MESSAGE: Key ring with default key {31ca0876-e0f5-496e-a902-f3c716be9056} was loaded during application startup.
+ 2021-11-25 20:07:58,606 DEBUG Microsoft.AspNetCore.Hosting.Diagnostics.Started [0] - MESSAGE: Hosting started
+ 2021-11-25 20:07:58,610 DEBUG Microsoft.AspNetCore.Hosting.Diagnostics.MoveNext [0] - MESSAGE: Loaded hosting startup assembly DNSAPI
+ 2021-11-25 20:07:58,670  INFO Microsoft.AspNetCore.Hosting.Diagnostics.? [?] - MESSAGE: Request starting HTTP/1.1 GET http://localhost:53264/swagger/index.html  
+ 2021-11-25 20:07:58,677 DEBUG Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware.? [?] - MESSAGE: Wildcard detected, all requests with hosts will be allowed.
+ 2021-11-25 20:07:58,682 TRACE Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware.? [?] - MESSAGE: All hosts are allowed.
+ 2021-11-25 20:07:58,695  WARN Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware.? [?] - MESSAGE: Failed to determine the https port for redirect.
+ 2021-11-25 20:07:58,731 DEBUG Microsoft.AspNetCore.Routing.Matching.DfaMatcher.? [?] - MESSAGE: No candidates found for the request path '/swagger/index.html'
+ 2021-11-25 20:07:58,737 DEBUG Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.? [?] - MESSAGE: Request did not match any endpoints
+ 2021-11-25 20:07:58,820  INFO Microsoft.AspNetCore.Hosting.Diagnostics.? [?] - MESSAGE: Request finished in 150.556ms 200 text/html;charset=utf-8
+ 2021-11-25 20:07:59,068  INFO Microsoft.AspNetCore.Hosting.Diagnostics.? [?] - MESSAGE: Request starting HTTP/1.1 GET http://localhost:53264/swagger/v1/swagger.json  
+ 2021-11-25 20:07:59,072 TRACE Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware.? [?] - MESSAGE: All hosts are allowed.
+ 2021-11-25 20:07:59,076 DEBUG Microsoft.AspNetCore.Routing.Matching.DfaMatcher.? [?] - MESSAGE: No candidates found for the request path '/swagger/v1/swagger.json'
+ 2021-11-25 20:07:59,080 DEBUG Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.? [?] - MESSAGE: Request did not match any endpoints
+ 2021-11-25 20:07:59,222  INFO Microsoft.AspNetCore.Hosting.Diagnostics.? [?] - MESSAGE: Request finished in 154.4383ms 200 application/json;charset=utf-8
+ 

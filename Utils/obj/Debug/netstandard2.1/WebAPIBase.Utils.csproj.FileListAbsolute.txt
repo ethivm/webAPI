@@ -1,0 +1,12 @@
+C:\Users\ethiraj\Downloads\API\WebAPIBase.NetCore-master\Utils\bin\Debug\netstandard2.1\WebAPIBase.Utils.deps.json
+C:\Users\ethiraj\Downloads\API\WebAPIBase.NetCore-master\Utils\bin\Debug\netstandard2.1\WebAPIBase.Utils.dll
+C:\Users\ethiraj\Downloads\API\WebAPIBase.NetCore-master\Utils\bin\Debug\netstandard2.1\WebAPIBase.Utils.pdb
+C:\Users\ethiraj\Downloads\API\WebAPIBase.NetCore-master\Utils\bin\Debug\netstandard2.1\WebAPIBase.Model.dll
+C:\Users\ethiraj\Downloads\API\WebAPIBase.NetCore-master\Utils\bin\Debug\netstandard2.1\WebAPIBase.Model.pdb
+C:\Users\ethiraj\Downloads\API\WebAPIBase.NetCore-master\Utils\obj\Debug\netstandard2.1\WebAPIBase.Utils.csprojAssemblyReference.cache
+C:\Users\ethiraj\Downloads\API\WebAPIBase.NetCore-master\Utils\obj\Debug\netstandard2.1\WebAPIBase.Utils.AssemblyInfoInputs.cache
+C:\Users\ethiraj\Downloads\API\WebAPIBase.NetCore-master\Utils\obj\Debug\netstandard2.1\WebAPIBase.Utils.AssemblyInfo.cs
+C:\Users\ethiraj\Downloads\API\WebAPIBase.NetCore-master\Utils\obj\Debug\netstandard2.1\WebAPIBase.Utils.csproj.CoreCompileInputs.cache
+C:\Users\ethiraj\Downloads\API\WebAPIBase.NetCore-master\Utils\obj\Debug\netstandard2.1\WebAPIBase.Utils.csproj.CopyComplete
+C:\Users\ethiraj\Downloads\API\WebAPIBase.NetCore-master\Utils\obj\Debug\netstandard2.1\WebAPIBase.Utils.dll
+C:\Users\ethiraj\Downloads\API\WebAPIBase.NetCore-master\Utils\obj\Debug\netstandard2.1\WebAPIBase.Utils.pdb
